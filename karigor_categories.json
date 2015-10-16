@@ -1,0 +1,71 @@
+{"karigor_categories" :[
+    {"category": "Foreign Book", "sub_categories":[
+        {"category":"Translated Books", "url" : "http://books.karigor.com/?product_cat=%e0%a6%85%e0%a6%a8%e0%a7%81%e0%a6%ac%e0%a6%be%e0%a6%a6"}]},
+    {"category": "Literature ", "sub_categories":[
+
+        {"category":"Poem", "url" : "http://books.karigor.com/?product_cat=%e0%a6%95%e0%a6%ac%e0%a6%bf%e0%a6%a4%e0%a6%be"},
+        {"category":"Drama","url" :"http://books.karigor.com/?product_cat=%e0%a6%a8%e0%a6%be%e0%a6%9f%e0%a6%95"},
+        {"category":"Porse", "url" : "http://books.karigor.com/?product_cat=%e0%a6%97%e0%a6%a6%e0%a7%8d%e0%a6%af"},
+        {"category":"Essay", "url" : "http://books.karigor.com/?product_cat=%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%ac%e0%a6%a8%e0%a7%8d%e0%a6%a7-%e0%a6%97%e0%a6%ac%e0%a7%87%e0%a6%b7%e0%a6%a3%e0%a6%be-%e0%a6%b8%e0%a6%ae%e0%a6%be%e0%a6%b2%e0%a7%8b%e0%a6%9a%e0%a6%a8%e0%a6%be"},
+        {"category":"Story", "url": "http://books.karigor.com/?product_cat=%e0%a6%97%e0%a6%b2%e0%a7%8d%e0%a6%aa"},
+        {"category":"Books", "url": "http://books.karigor.com/?product_cat=%e0%a6%b0%e0%a6%9a%e0%a6%a8%e0%a6%be%e0%a6%ac%e0%a6%b2%e0%a7%80-%e0%a6%b8%e0%a6%ae%e0%a6%97%e0%a7%8d%e0%a6%b0"},
+        {"category":"Linguistics", "url": "http://books.karigor.com/?product_cat=%e0%a6%ad%e0%a6%be%e0%a6%b7%e0%a6%be%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a7%8d%e0%a6%9e%e0%a6%be%e0%a6%a8"},
+        {"category":"Novel", "url": "http://books.karigor.com/?product_cat=%e0%a6%89%e0%a6%aa%e0%a6%a8%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b8"},
+        {"category":"Philosophy", "url": "http://books.karigor.com/?product_cat=%e0%a6%a6%e0%a6%b0%e0%a7%8d%e0%a6%b6%e0%a6%a8"},
+        {"category":"Biography", "url": "http://books.karigor.com/?product_cat=%e0%a6%9c%e0%a7%80%e0%a6%ac%e0%a6%a8%e0%a7%80"},
+        {"category":"Reminisce", "url": "http://books.karigor.com/?product_cat=%e0%a6%b8%e0%a7%8d%e0%a6%ae%e0%a7%83%e0%a6%a4%e0%a6%bf%e0%a6%95%e0%a6%a5%e0%a6%be"},
+        {"category":"Politics", "url": "http://books.karigor.com/?product_cat=%e0%a6%b0%e0%a6%be%e0%a6%9c%e0%a6%a8%e0%a7%80%e0%a6%a4%e0%a6%bf"},
+        {"category":"Liberation War", "url": "http://books.karigor.com/?product_cat=%e0%a6%ae%e0%a7%81%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%bf%e0%a6%af%e0%a7%81%e0%a6%a6%e0%a7%8d%e0%a6%a7-%e0%a6%ac%e0%a6%bf%e0%a6%b7%e0%a7%9f%e0%a6%95"},
+        {"category":"Molecule Poetry", "url": "http://books.karigor.com/?product_cat=%e0%a6%85%e0%a6%a3%e0%a7%81%e0%a6%95%e0%a6%be%e0%a6%ac%e0%a7%8d%e0%a6%af"},
+        {"category":"History", "url": "http://books.karigor.com/?product_cat=%e0%a6%87%e0%a6%a4%e0%a6%bf%e0%a6%b9%e0%a6%be%e0%a6%b8-%e0%a6%90%e0%a6%a4%e0%a6%bf%e0%a6%b9%e0%a7%8d%e0%a6%af"},
+        {"category":"Story", "url": "http://books.karigor.com/?product_cat=%e0%a6%97%e0%a6%b2%e0%a7%8d%e0%a6%aa"},
+        {"category":" Literature", "url":"http://books.karigor.com/?product_cat=%e0%a6%b8%e0%a6%be%e0%a6%b9%e0%a6%bf%e0%a6%a4%e0%a7%8d%e0%a6%af"},
+        {"category": "Travel Stories", "url": "http://books.karigor.com/?product_cat=%e0%a6%ad%e0%a7%8d%e0%a6%b0%e0%a6%ae%e0%a6%a3-%e0%a6%95%e0%a6%be%e0%a6%b9%e0%a6%bf%e0%a6%a8%e0%a7%80"}]},
+
+
+    {"category": "Technology, Internet, freelancing" , "sub_categories":[
+        {"category":"Science Fiction", "url":"http://books.karigor.com/?product_cat=%e0%a6%ac%e0%a7%88%e0%a6%9c%e0%a7%8d%e0%a6%9e%e0%a6%be%e0%a6%a8%e0%a6%bf%e0%a6%95-%e0%a6%95%e0%a6%b2%e0%a7%8d%e0%a6%aa-%e0%a6%95%e0%a6%be%e0%a6%b9%e0%a6%bf%e0%a6%a8%e0%a7%80"},
+        {"category":"Science","url": "http://books.karigor.com/?product_cat=%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a7%8d%e0%a6%9e%e0%a6%be%e0%a6%a8-%e0%a6%97%e0%a6%a3%e0%a6%bf%e0%a6%a4-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%af%e0%a7%81%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%bf"},
+        {"category":"Ghostly", "url":"http://books.karigor.com/?product_cat=%e0%a6%ad%e0%a7%8c%e0%a6%a4%e0%a6%bf%e0%a6%95-%e0%a6%aa%e0%a6%b0%e0%a6%be%e0%a6%ac%e0%a6%be%e0%a6%b8%e0%a7%8d%e0%a6%a4%e0%a6%ac"}]},
+
+
+
+    {"category": "Academic" , "sub_categories":[
+        {"category":"Economics", "url":"http://books.karigor.com/?product_cat=%e0%a6%85%e0%a6%b0%e0%a7%8d%e0%a6%a5%e0%a6%a8%e0%a7%80%e0%a6%a4%e0%a6%bf"},
+        {"category":"Education", "url":"http://books.karigor.com/?product_cat=%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be"}]},
+
+    {"category": "Religious" , "sub_categories":[
+        {"category":"Religion", "url":"http://books.karigor.com/?product_cat=%e0%a6%a7%e0%a6%b0%e0%a7%8d%e0%a6%ae"}]},
+
+    {"category": "Women & Infant" , "sub_categories":[
+        {"category":"Comics", "url":"http://books.karigor.com/?product_cat=%e0%a6%b0%e0%a6%ae%e0%a7%8d%e0%a6%af-%e0%a6%95%e0%a7%8c%e0%a6%a4%e0%a7%81%e0%a6%95"},
+        {"category":" Mystery Thrills", "url":"http://books.karigor.com/?product_cat=%e0%a6%b0%e0%a6%b9%e0%a6%b8%e0%a7%8d%e0%a6%af-%e0%a6%b0%e0%a7%8b%e0%a6%ae%e0%a6%be%e0%a6%9e%e0%a7%8d%e0%a6%9a-%e0%a6%97%e0%a7%8b%e0%a7%9f%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%be-%e0%a6%95"},
+        {"category":"  Teen age Literature", "url":"http://books.karigor.com/?product_cat=%e0%a6%b6%e0%a6%bf%e0%a6%b6%e0%a7%81-%e0%a6%95%e0%a6%bf%e0%a6%b6%e0%a7%8b%e0%a6%b0-%e0%a6%ac%e0%a6%bf%e0%a6%b7%e0%a7%9f%e0%a6%95"}]},
+
+
+    {"category": "Health, Family & Society" , "sub_categories":[
+        {"category":" HouseHolds", "url":"http://books.karigor.com/?product_cat=%e0%a6%98%e0%a6%b0-%e0%a6%97%e0%a7%87%e0%a6%b0%e0%a6%b8%e0%a7%8d%e0%a6%a5%e0%a6%be%e0%a6%b2%e0%a7%80"},
+         {"category":" Cooking", "url":"http://books.karigor.com/?product_cat=%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a8%e0%a6%be"},
+        {"category":"Health & Treatment", "url":"http://books.karigor.com/?product_cat=%e0%a6%9a%e0%a6%bf%e0%a6%95%e0%a6%bf%e0%a7%8e%e0%a6%b8%e0%a6%be"}]},
+
+    {"category": "Law, Media & Journalism" , "sub_categories":[
+        {"category":"Law", "url":"http://books.karigor.com/?product_cat=%e0%a6%86%e0%a6%87%e0%a6%a8"},
+        {"category":"Song", "url":"http://books.karigor.com/?product_cat=%e0%a6%97%e0%a6%be%e0%a6%a8"},
+        {"category":"Entertainment", "url":"http://books.karigor.com/?product_cat=%e0%a6%ac%e0%a6%bf%e0%a6%a8%e0%a7%8b%e0%a6%a6%e0%a6%a8"},
+        {"category":"Media & Journalism", "url":"http://books.karigor.com/?product_cat=%e0%a6%97%e0%a6%a3%e0%a6%ae%e0%a6%be%e0%a6%a7%e0%a7%8d%e0%a6%af%e0%a6%ae-%e0%a6%b8%e0%a6%be%e0%a6%82%e0%a6%ac%e0%a6%be%e0%a6%a6%e0%a6%bf%e0%a6%95%e0%a6%a4%e0%a6%be"},
+        {"category":"Elevated Literature", "url":"http://books.karigor.com/?product_cat=%e0%a6%a7%e0%a7%8d%e0%a6%b0%e0%a7%81%e0%a6%aa%e0%a6%a6%e0%a7%80-%e0%a6%b8%e0%a6%be%e0%a6%b9%e0%a6%bf%e0%a6%a4%e0%a7%8d%e0%a6%af"},
+        {"category":"Cinema", "url":"http://books.karigor.com/?product_cat=%e0%a6%b8%e0%a6%bf%e0%a6%a8%e0%a7%87%e0%a6%ae%e0%a6%be"}]},
+
+
+    {"category": "Magazines and Journals" , "sub_categories":[
+        {"category":"Interview","url":"http://books.karigor.com/?product_cat=viva"},
+        {"category":"Periodicals", "url":"http://books.karigor.com/?product_cat=%e0%a6%b8%e0%a6%be%e0%a6%ae%e0%a7%9f%e0%a6%bf%e0%a6%95%e0%a7%80"}]},
+
+
+
+    {"category": "Sports & Others" , "sub_categories":[
+        {"category":"Karigor Slected", "url":"http://books.karigor.com/?product_cat=editorpick"},
+        {"category":"Agricultural", "url":"http://books.karigor.com/?product_cat=%e0%a6%95%e0%a7%83%e0%a6%b7%e0%a6%bf"},
+        {"category":"Sports", "url": "http://books.karigor.com/?product_cat=%e0%a6%95%e0%a7%8d%e0%a6%b0%e0%a7%80%e0%a7%9c%e0%a6%be-%e0%a6%ac%e0%a6%bf%e0%a6%b7%e0%a7%9f%e0%a6%95"},
+        {"category":"Miscellaneous", "url":"http://books.karigor.com/?product_cat=%e0%a6%ac%e0%a6%bf%e0%a6%ac%e0%a6%bf%e0%a6%a7"}]}
+    ]}
